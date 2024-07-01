@@ -1,6 +1,6 @@
 ![Preview](./IMG/img2.jpg)
 
-<a href="/IMG/img1.jpg"><img align="right" width="425" src="/IMG/img1.jpg"></a>
+<a href="/IMG/img1.jpg"><img align="right" width="100" src="/IMG/img1.jpg"></a>
 
 
 ### Hi!👋 I'm Kiti🍊
