@@ -25,7 +25,7 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 
 ## **🧋Cutie Counter**
 <p align="center">
-	<img src="https://getstickerpack.com/stickers/genshin-impact-keqing"> <br/>
+	<img src="https://images8.alphacoders.com/129/1298043.jpg"> <br/>
 </p> -->
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kobayashikiti?theme=gelbooru"></a>
 <a href="https://github.com/KobayashiKiti"><img align="left" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_28.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
@@ -48,4 +48,4 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/E00121)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/KobayashiKiti)
-[![KobayashiKiti](https://kiti.pages.dev/)](https://kiti.pages.dev/)
+[![KobayashiKiti](https://images8.alphacoders.com/129/1298043.jpg)](https://kiti.pages.dev/)
