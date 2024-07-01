@@ -48,4 +48,4 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/KobayashiKiti)
 <br><br>
-[![KobayashiKiti](https://images8.alphacoders.com/111/1115544.png)](https://kiti.pages.dev/)
+[![KobayashiKiti](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://kiti.pages.dev/)
