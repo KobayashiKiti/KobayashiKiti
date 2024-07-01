@@ -47,5 +47,4 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/E00121)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/KobayashiKiti)
-<br><br>
-[![KobayashiKiti](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://kiti.pages.dev/)
+[![KobayashiKiti](https://img.shields.io/badge/My%20Profile%20Page-8A2BE2)](https://kiti.pages.dev/)
