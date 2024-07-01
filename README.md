@@ -12,7 +12,7 @@
 <a href="https://github.com/KobayashiKiti"><img align="left" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_4.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
-<div</div>
+<div></div>
 ## **💻 Experience**
 <a href="https://github.com/KobayashiKiti"><img align="right" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_21.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
@@ -34,7 +34,7 @@ People who visit my profile :3.
 
 Hehe~ another cutie has been caught.
 ```
-<!-- <br><br><br><br> -->
+
 ## **📫 Contact**
 <a href="https://github.com/KobayashiKiti"><img align="right" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_7.png?405e4422ce30b3b6747d6b0b8ea4baf4" /></a>
 **Please Contact me on Discord for a quick response:** [KobayashiKiti](https://discord.com/users/KobayashiKiti)
@@ -47,4 +47,5 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/E00121)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/KobayashiKiti)
+<div></div>
 [![KobayashiKiti](https://images8.alphacoders.com/111/1115544.png)](https://kiti.pages.dev/)
