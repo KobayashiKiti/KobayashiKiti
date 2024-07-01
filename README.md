@@ -12,7 +12,7 @@
 <a href="https://github.com/KobayashiKiti"><img align="left" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_4.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
-<div></div>
+
 ## **💻 Experience**
 <a href="https://github.com/KobayashiKiti"><img align="right" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_21.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
