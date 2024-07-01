@@ -1,3 +1,4 @@
+<img src="img/img2.jpg">
 <h1 align="center">Hi 👋, I'm Kobayashi Kiti</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
