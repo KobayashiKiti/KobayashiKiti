@@ -12,14 +12,13 @@
 <a href="https://github.com/KobayashiKiti"><img align="left" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_4.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
-<a></a>
+<div</div>
 ## **💻 Experience**
 <a href="https://github.com/KobayashiKiti"><img align="right" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_21.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
 I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
- <div><a href="https://github.com/KobayashiKiti"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div>
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KobayashiKiti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobayashiKiti&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
@@ -48,4 +47,4 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/E00121)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/KobayashiKiti)
-[![KobayashiKiti](https://images8.alphacoders.com/129/1298043.jpg)](https://kiti.pages.dev/)
+[![KobayashiKiti](https://images8.alphacoders.com/111/1115544.png)](https://kiti.pages.dev/)
