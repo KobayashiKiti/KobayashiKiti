@@ -24,7 +24,7 @@ I'm currently studying software engineering at [ICTU - Thai Nguyen University of
 
 ## **🧋Cutie Counter**
 <p align="center">
-	<img src="https://images8.alphacoders.com/129/1298043.jpg"> <br/>
+	<a href="https://www.facebook.com/E00121"><img src="https://images8.alphacoders.com/129/1298043.jpg"></a> <br/>
 </p>
 <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kobayashikiti?theme=gelbooru"></a>
 <a href="https://github.com/KobayashiKiti"><img align="left" width="100" src="https://stickermaker.s3.eu-west-1.amazonaws.com/storage/uploads/sticker-pack/genshin-impact-keqing/sticker_28.png?405e4422ce30b3b6747d6b0b8ea4baf4"></a>
