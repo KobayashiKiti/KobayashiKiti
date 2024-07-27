@@ -3,9 +3,9 @@
 <a href="https://www.facebook.com/E00121"><img align="right" width="100" src="/IMG/img1.jpg"></a>
 
 
-### Hi!👋 I'm Kiti🍊
+### Hi!👋 I'm Kiti
 
-**Weeb Developer and Gamer** 
+**** 
 
 ## **☕ About me**
 .head
